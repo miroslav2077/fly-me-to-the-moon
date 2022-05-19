@@ -28,6 +28,12 @@ $app->add(function ($request, $handler) {
             ->withHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, PATCH, OPTIONS');
 });
 
+$app->get('/', function (Request $request, Response $response) {
+    $html = file_get_contents('public/index.html');
+    $response->getBody()->write($html);
+    return $response;
+});
+
 /* Return Airports list */
 $app->get(
     '/airports',
