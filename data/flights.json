@@ -1,0 +1,62 @@
+[
+    {
+        "code_departure": "ATL",
+        "code_arrival": "PEK",
+        "price": 12
+    },
+    {
+        "code_departure": "ATL",
+        "code_arrival": "ORD",
+        "price": 22
+    },
+    {
+        "code_departure": "ATL",
+        "code_arrival": "FCO",
+        "price": 16
+    },
+    {
+        "code_departure": "PEK",
+        "code_arrival": "ATL",
+        "price": 15
+    },
+    {
+        "code_departure": "PEK",
+        "code_arrival": "ORD",
+        "price": 14
+    },
+    {
+        "code_departure": "PEK",
+        "code_arrival": "FCO",
+        "price": 11
+    },
+    {
+        "code_departure": "ORD",
+        "code_arrival": "PEK",
+        "price": 19
+    },
+    {
+        "code_departure": "ORD",
+        "code_arrival": "ATL",
+        "price": 16
+    },
+    {
+        "code_departure": "ORD",
+        "code_arrival": "FCO",
+        "price": 14
+    },
+    {
+        "code_departure": "FCO",
+        "code_arrival": "ATL",
+        "price": 18
+    },
+    {
+        "code_departure": "FCO",
+        "code_arrival": "ORD",
+        "price": 14
+    },
+    {
+        "code_departure": "FCO",
+        "code_arrival": "PEK",
+        "price": 13
+    }
+]

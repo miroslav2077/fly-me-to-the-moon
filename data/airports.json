@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "name": "Hartsfield Jackson Atlanta Intl",
+        "code": "ATL",
+        "lat": 33.636719,
+        "lng": -84.428067
+    },
+    {
+        "id": 1,
+        "name": "Chicago Ohare Intl",
+        "code": "ORD",
+        "lat": 41.978603,
+        "lng": -87.904842
+    },
+    {
+        "id": 2,
+        "name": "Capital Intl",
+        "code": "PEK",
+        "lat": 40.080111,
+        "lng": 116.584556
+    },
+    {
+        "id": 3,
+        "name": "Aeroporto internazionale Leonardo da Vinci",
+        "code": "FCO",
+        "lat": 41.8034274,
+        "lng": 12.2518928
+    }
+]
