@@ -69,7 +69,7 @@ function App() {
     <div className="App">
       <div className="container mx-auto p-4">
         <div className="flex justify-center align-center">
-          <div className="flex flex-col space-y-4 justify-center bg-gradient-to-br from-orange-500 to-blue-400 px-4 py-3 rounded-2xl md:w-1/2">
+          <div className="flex flex-col space-y-4 justify-center bg-gradient-to-br from-blue-500 to-cyan-300 px-4 py-3 rounded-2xl md:w-1/2">
             <h1 className="text-white font-bold text-3xl">Ricerca voli 🛫</h1>
             <div className="flex space-x-2">
               <div className="w-full">
