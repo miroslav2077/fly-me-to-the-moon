@@ -13,6 +13,7 @@ php server.php
 
 ## Avvio Client 🖥️
 ```sh
+cd client
 npm install
 npm start
 ```
