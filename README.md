@@ -18,6 +18,9 @@ npm install
 npm start
 ```
 
+## Dati
+I dati sono presenti nella sottocartella "data", e possono essere modificati a piacimento, airports.json contiene la lista degli aeroporti, e flights.json contiene la lista dei voli disponibili ed i relativi prezzi.
+
 ### Author
 Mirko Grasso
 grasso.mirko@gmail.com
